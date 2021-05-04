@@ -1,2 +1,2 @@
 # AT-T
-Get AT&amp;T router usage
+Get AT&amp;T router usage.
